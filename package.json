@@ -1,0 +1,13 @@
+{
+  "name": "serviceworkertest",
+  "version": "1.0.0",
+  "description": "Testing the service worker capability",
+  "main": "server.js",
+  "author": "Ali Khudhair",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "html": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
